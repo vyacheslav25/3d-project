@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/3PupperStudios/JungleTemple Demo/Scenes/Example.unity
+  isLoaded: 1
+  isActive: 1
